@@ -1,4 +1,4 @@
-# [Yamid Estupiñán]
+# Yamid Estupiñán
 ### Ingeniero Electrónico | Game Developer | Cybersecurity Student
 
 ¡Hola! Soy un apasionado por la intersección entre la tecnología y la narrativa. Actualmente desarrollo experiencias interactivas enfocadas en la cultura colombiana, combinando rigor técnico con arte digital.
