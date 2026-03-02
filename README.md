@@ -47,14 +47,13 @@ No solo escribo código, también doy vida a los mundos que imagino.
 </table>
 
 ## ✍️ Bitácora de Desarrollo (Blog)
-*Combinando mi amor por el arte y los videojuegos y la posibilidad de contar historias a través de ellos.*
 
 * **El Ritual de los 6 Rostros: Mitología en Píxeles.** Un resumen de cómo los mitos y leyendas de Colombia no son solo historias de fondo, sino el motor que moldea cada mecánica y puzle de mi juego.
 * **Del Soldador al Teclado: Mi Transición al Game Dev.** Desde siempre he sentido una profunda conexión con los videojuegos, especialmente con los de plataformas. Aquí cuento cómo mi formación en Ingeniería Electrónica y mi especialización en Ciberseguridad se fusionan con mi pasión por crear mundos interactivos.
 
----
 
 ---
+
 
 ## 🔗 Conecta con mi Trabajo
 
@@ -65,9 +64,9 @@ No solo escribo código, también doy vida a los mundos que imagino.
 | 💻 [**GitHub**](https://github.com/Yamid-E) | Arquitectura de software, scripts en C# para Unity y lógica de programación. |
 | 👔 [**LinkedIn**](https://www.linkedin.com/in/yamidestupinan-desarrollador-de-videojuegos/) | Trayectoria profesional como Ingeniero Electrónico y desarrollador de software. |
 
----
 
 ---
+
 
 ## ✍️ Blog: Bitácora de Desarrollo
 *Explorando la ingeniería detrás de la diversión.*
@@ -84,4 +83,4 @@ No solo escribo código, también doy vida a los mundos que imagino.
 - **Habilidades clave:** C#, Unity, Desarrollo Ágil, Escultura, Pixel Art.
 
 ---
-> "Restaurando el pasado a través del código del futuro."
+> "Apasionado por el arte y profundamente enamorado de la posibilidad de contar historias a través de los videojuegos."
