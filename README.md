@@ -27,8 +27,10 @@ No solo escribo código, también doy vida a los mundos que imagino.
 
 <table border="0">
   <tr>
-    <td><img src="https://via.placeholder.com/250x150?text=Pixel+Art+1" width="250"></td>
-    <td><img src="https://via.placeholder.com/250x150?text=Boceto+Escultura" width="250"></td>
+    <td><img src="<img src="6 rostros.png" width="250">" width="250"></td>
+    <td><img src="<img src="Arqueologo.png" width="250">" width="250"></td>
+    <td><img src="<img src="Bruja.png" width="250">" width="250"></td>
+    <td><img src="<img src="Chullachaqui.png" width="250">" width="250"></td>
   </tr>
 </table>
 
