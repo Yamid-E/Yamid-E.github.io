@@ -5,6 +5,19 @@
 
 ---
 
+## 🎓 Proyectos Académicos
+*Desafíos técnicos y aprendizaje práctico en el desarrollo de videojuegos.*
+
+### ⚽ The Ball Game
+Un prototipo enfocado en la física y el control de objetos, desarrollado como parte de mi formación técnica. El objetivo es mantener una esfera sobre una plataforma, enfrentando rivales.
+
+* **Tecnologías:** Unity 6, C#.
+* **Aprendizajes:** Implementación de sistemas de física (Rigidbody), manejo de inputs del jugador y lógica de colisiones.
+* **Estado:** Prototipo jugable.
+* 🕹️ [**Jugar The Ball Game en Itch.io**](https://alvinmaker.itch.io/the-ball-game)
+
+---
+
 ## 🛠 Proyectos en Curso
 
 ### 🏺 El Ritual de los 6 Rostros
