@@ -68,14 +68,6 @@ No solo escribo código, también doy vida a los mundos que imagino.
 ---
 
 
-## ✍️ Blog: Bitácora de Desarrollo
-*Explorando la ingeniería detrás de la diversión.*
-
-- "Cómo los mitos colombianos moldean las mecánicas de mi juego".
-- **[Entrada 2]** "Del soldador al teclado: Mi transición de la electrónica al Game Dev".
-
----
-
 ## 📚 Educación y Skills
 - **Ingeniería Electrónica** (Especialista en Ciberseguridad en curso).
 - **Tecnólogo en Desarrollo de Videojuegos** (SENA).
