@@ -46,23 +46,33 @@ No solo escribo código, también doy vida a los mundos que imagino.
   </tr>
 </table>
 
-- **Pixel Art:** Creación de assets optimizados para videojuegos.
-- **Escultura Tradicional:** Mi base para entender el volumen y la anatomía en el arte digital.
+## ✍️ Bitácora de Desarrollo (Blog)
+*Combinando mi amor por el arte y los videojuegos y la posibilidad de contar historias a través de ellos.*
+
+* **El Ritual de los 6 Rostros: Mitología en Píxeles.** Un resumen de cómo los mitos y leyendas de Colombia no son solo historias de fondo, sino el motor que moldea cada mecánica y puzle de mi juego.
+* **Del Soldador al Teclado: Mi Transición al Game Dev.** Desde siempre he sentido una profunda conexión con los videojuegos, especialmente con los de plataformas. Aquí cuento cómo mi formación en Ingeniería Electrónica y mi especialización en Ciberseguridad se fusionan con mi pasión por crear mundos interactivos.
 
 ---
 
-## 🔗 Enlaces Profesionales
-- 🎨 [**ArtStation**](https://www.artstation.com/alvinmaker) - Portafolio visual, bocetos y escultura.
-- 🕹️ [**Itch.io**](https://alvinmaker.itch.io/) - Prototipos jugables.
-- 💻 [**GitHub**](https://github.com/Yamid-E) - Repositorios de código y sistemas en C#.
-- 👔 [**LinkedIn**](https://www.linkedin.com/in/yamidestupinan-desarrollador-de-videojuegos/) - Perfil profesional y trayectoria como Ingeniero.
+---
+
+## 🔗 Conecta con mi Trabajo
+
+| Plataforma | Lo que encontrarás aquí |
+| :--- | :--- |
+| 🎨 [**ArtStation**](https://www.artstation.com/alvinmaker) | Portafolio visual: Bocetos, pixel art de *El Ritual* y escultura tradicional. |
+| 🕹️ [**Itch.io**](https://alvinmaker.itch.io/) | Prototipos jugables y demos técnicas de mis proyectos actuales como *Angry Grandma*. |
+| 💻 [**GitHub**](https://github.com/Yamid-E) | Arquitectura de software, scripts en C# para Unity y lógica de programación. |
+| 👔 [**LinkedIn**](https://www.linkedin.com/in/yamidestupinan-desarrollador-de-videojuegos/) | Trayectoria profesional como Ingeniero Electrónico y desarrollador de software. |
+
+---
 
 ---
 
 ## ✍️ Blog: Bitácora de Desarrollo
 *Explorando la ingeniería detrás de la diversión.*
 
-- **[Entrada 1]** "Cómo los mitos colombianos moldean las mecánicas de mi juego".
+- "Cómo los mitos colombianos moldean las mecánicas de mi juego".
 - **[Entrada 2]** "Del soldador al teclado: Mi transición de la electrónica al Game Dev".
 
 ---
