@@ -28,20 +28,20 @@ No solo escribo código, también doy vida a los mundos que imagino.
 <table>
   <tr>
     <td>
-      <img src="nombre-de-tu-foto-1.jpg" width="250">
-      <p align="center">Las 6 Caras</p>
+      <img src="6 rostros.png" width="250">
+      <p align="center">Los Seis Rostros</p>
     </td>
     <td>
-      <img src="nombre-de-tu-foto-2.jpg" width="250">
+      <img src="Arqueologo.png" width="250">
       <p align="center">Protagonista</p>
     </td>
     <td>
-      <img src="nombre-de-tu-foto-3.jpg" width="250">
-      <p align="center">Personajes</p>
+      <img src="Bruja.png" width="250">
+      <p align="center">Bruja</p>
     </td>
     <td>
-      <img src="nombre-de-tu-foto-4.jpg" width="250">
-      <p align="center">Enemigos</p>
+      <img src="Chullachaqui.png" width="250">
+      <p align="center">Chullachaqui</p>
     </td>
   </tr>
 </table>
