@@ -72,7 +72,7 @@ No solo escribo código, también doy vida a los mundos que imagino.
 - **Tecnólogo en Desarrollo de Videojuegos** | SENA (En curso, 2027).
 - **Tecnólogo en Análisis y Desarrollo de Software** | SENA.
 - **Ingeniería Electrónica** | Universidad Pedagógica y Tecnológica de Colombia.
-
+---
 - **Skills:** Unity | C# | Desarrollo 2D y 2.5D | Gameplay Programming |  UI (Canvas) | Optimización del Game Loop | Git | GitHub | Aseprite | Blender | Diseño de Personajes y Anatomía | Animación 2D.
 - **Idiomas:** Español (Nativo), Inglés (Nivel B1).
 
