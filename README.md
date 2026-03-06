@@ -66,13 +66,14 @@ No solo escribo código, también doy vida a los mundos que imagino.
 
 ---
 
-## 📜 Resumen de CV (Logros y Educación)
+## 📜 Resumen de CV 
 - **Bootcamp Desarrollo de Videojuegos en Unity** | Generatión Colombia (En curso).
 - **Especialización en Ciberseguridad** | Coorporación Universitaria Iberoamericana (En curso).
 - **Tecnólogo en Desarrollo de Videojuegos** | SENA (En curso, 2027).
-- **Tecnólogo en Análisis y Desarrollo de Software**.
+- **Tecnólogo en Análisis y Desarrollo de Software** | SENA.
 - **Ingeniería Electrónica** | Universidad Pedagógica y Tecnológica de Colombia.
-- **Skills:** C# (Unity), Desarrollo Ágil, Pixel Art, Animación 2D.
+
+- **Skills:** Unity | C# | Desarrollo 2D y 2.5D | Gameplay Programming |  UI (Canvas) | Optimización del Game Loop | Git | GitHub | Aseprite | Blender | Diseño de Personajes y Anatomía | Animación 2D.
 - **Idiomas:** Español (Nativo), Inglés (Nivel B1).
 
 ---
