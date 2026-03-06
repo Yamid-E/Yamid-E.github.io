@@ -69,7 +69,7 @@ Busco integrar mis conocimientos en ciberseguridad y arquitectura de software pa
 - **Core:** Unity, C#, Desarrollo 2D y 2.5D, Gameplay Programming.
 - **Técnico:** Optimización del Game Loop, UI (Canvas), Git, GitHub.
 - **Arte:** Aseprite, Blender, Diseño de Personajes, Anatomía y Animación 2D.
-- **Idiomas:** Español (Nativo) | Inglés (Nivel B1).
+- **Idiomas:** Español (Nativo), Inglés (Nivel B1).
 
 ---
 
