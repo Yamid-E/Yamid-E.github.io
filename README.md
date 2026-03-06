@@ -54,16 +54,23 @@ Busco integrar mis conocimientos en ciberseguridad y arquitectura de software pa
 
 ## 📜 Resumen de CV 
 ---
-- **Bootcamp Desarrollo de Videojuegos en Unity** | Generation Colombia (En curso).
-- **Especialización en Ciberseguridad** | Corporación Universitaria Iberoamericana (En curso).
-- **Tecnólogo en Desarrollo de Videojuegos** | SENA (En curso, 2027).
-- **Tecnólogo en Análisis y Desarrollo de Software** | SENA.
-- **Ingeniería Electrónica** | Universidad Pedagógica y Tecnológica de Colombia.
+
+| Formación | Institución |
+| :--- | ---: |
+| **Bootcamp Desarrollo de Videojuegos en Unity** | Generation Colombia (En curso) |
+| **Especialización en Ciberseguridad** | Corporación Universitaria Iberoamericana (En curso) |
+| **Tecnólogo en Desarrollo de Videojuegos** | SENA (En curso, 2027) |
+| **Tecnólogo en Análisis y Desarrollo de Software** | SENA |
+| **Ingeniería Electrónica** | Universidad Pedagógica y Tecnológica de Colombia |
 
 ---
-- **Skills:** Unity, C#, Desarrollo 2D y 2.5D, Gameplay Programming, UI (Canvas), Optimización del Game Loop, Git, GitHub, Aseprite, Blender, Diseño de Personajes y Anatomía, Animación 2D.
-- **Idiomas:** Español (Nativo), Inglés (Nivel B1).
-  
+
+### 🛠️ Skills Profesionales
+- **Core:** Unity, C#, Desarrollo 2D y 2.5D, Gameplay Programming.
+- **Técnico:** Optimización del Game Loop, UI (Canvas), Git, GitHub.
+- **Arte:** Aseprite, Blender, Diseño de Personajes, Anatomía y Animación 2D.
+- **Idiomas:** Español (Nativo) | Inglés (Nivel B1).
+
 ---
 
 ## 🔗 Conecta con mi Trabajo
