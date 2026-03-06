@@ -11,7 +11,7 @@ Busco integrar mis conocimientos en ciberseguridad y arquitectura de software pa
 ---
 
 ## 🕹️ Portafolio de Proyectos
-
+![Banner Animado de El Ritual de los 6 Rostros](banner_ritual.gif)
 ### 🏺 El Ritual de los 6 Rostros (En Desarrollo)
 *Aventura de puzzles y misterio basada en mitos precolombinos.*
 - **Contexto:** Inspirado en la riqueza arqueológica y los mitos de Colombia.
