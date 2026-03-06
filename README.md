@@ -35,26 +35,12 @@ Busco integrar mis conocimientos en ciberseguridad y arquitectura de software pa
 ---
 
 ## 🎨 Galería y Proceso Creativo
-No solo escribo código, también doy vida a los mundos que imagino.
-
 <table>
   <tr>
-    <td>
-      <img src="6%20rostros.png" width="250">
-      <p align="center"><b>Los Seis Rostros</b></p>
-    </td>
-    <td>
-      <img src="Arqueologo.png" width="250">
-      <p align="center"><b>Protagonista</b></p>
-    </td>
-    <td>
-      <img src="Bruja.png" width="250">
-      <p align="center"><b>La Bruja</b></p>
-    </td>
-    <td>
-      <img src="Chullachaqui.png" width="250">
-      <p align="center"><b>El Chullachaqui</b></p>
-    </td>
+    <td><img src="6%20rostros.png" width="250"><p align="center"><b>Los Seis Rostros</b></p></td>
+    <td><img src="Arqueologo.png" width="250"><p align="center"><b>Protagonista</b></p></td>
+    <td><img src="Bruja.png" width="250"><p align="center"><b>La Bruja</b></p></td>
+    <td><img src="Chullachaqui.png" width="250"><p align="center"><b>El Chullachaqui</b></p></td>
   </tr>
 </table>
 
@@ -67,15 +53,16 @@ No solo escribo código, también doy vida a los mundos que imagino.
 ---
 
 ## 📜 Resumen de CV 
-- **Bootcamp Desarrollo de Videojuegos en Unity** | Generatión Colombia (En curso).
-- **Especialización en Ciberseguridad** | Coorporación Universitaria Iberoamericana (En curso).
+---
+- **Bootcamp Desarrollo de Videojuegos en Unity** | Generation Colombia (En curso).
+- **Especialización en Ciberseguridad** | Corporación Universitaria Iberoamericana (En curso).
 - **Tecnólogo en Desarrollo de Videojuegos** | SENA (En curso, 2027).
 - **Tecnólogo en Análisis y Desarrollo de Software** | SENA.
 - **Ingeniería Electrónica** | Universidad Pedagógica y Tecnológica de Colombia.
----
-- **Skills:** Unity | C# | Desarrollo 2D y 2.5D | Gameplay Programming |  UI (Canvas) | Optimización del Game Loop | Git | GitHub | Aseprite | Blender | Diseño de Personajes y Anatomía | Animación 2D.
-- **Idiomas:** Español (Nativo), Inglés (Nivel B1).
 
+---
+- **Skills:** Unity, C#, Desarrollo 2D y 2.5D, Gameplay Programming, UI (Canvas), Optimización del Game Loop, Git, GitHub, Aseprite, Blender, Diseño de Personajes y Anatomía, Animación 2D.
+- **Idiomas:** Español (Nativo), Inglés (Nivel B1).
 ---
 
 ## 🔗 Conecta con mi Trabajo
